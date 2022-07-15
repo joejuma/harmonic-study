@@ -1,0 +1,18 @@
+[
+{"name": "C", "frequency": 1.0, "integerish-period": 1},
+{"name": "F", "frequency": 1.33, "integerish-period": 3.03},
+{"name": "G", "frequency": 1.5, "integerish-period": 2.0},
+{"name": "C+1", "frequency": 2.0, "integerish-period": 1},
+{"name": "G+1", "frequency": 3.0, "integerish-period": 1},
+{"name": "C+2", "frequency": 4.0, "integerish-period": 1},
+{"name": "E+2", "frequency": 5.04, "integerish-period": 25.0},
+{"name": "G+2", "frequency": 5.99, "integerish-period": 1.01},
+{"name": "C+3", "frequency": 8.0, "integerish-period": 1},
+{"name": "D+3", "frequency": 8.98, "integerish-period": 1.02},
+{"name": "G+3", "frequency": 11.99, "integerish-period": 1.01},
+{"name": "A#+3", "frequency": 14.25, "integerish-period": 4.0},
+{"name": "B+3", "frequency": 15.1, "integerish-period": 10.0},
+{"name": "C+4", "frequency": 16.0, "integerish-period": 1},
+{"name": "G+4", "frequency": 23.97, "integerish-period": 1.03},
+{"name": "B+4", "frequency": 30.2, "integerish-period": 5.0}
+]
